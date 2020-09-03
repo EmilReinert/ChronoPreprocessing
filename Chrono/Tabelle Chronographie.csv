@@ -1,0 +1,117 @@
+﻿;Bezeichnung;Standort;Land;Architekt*in 1 Vorname;Architekt*in 1 Nachname;Künstler*innenname 1;Architekt*in 2 Vorname;Architekt*in 2 Nachname;Künstler*innenname 2;Architekt*in 3 Vorname;Architekt*in 3 Nachname;Künstler*innenname 3;Jahr Entwurf;Jahr Fertigstellung;Tags;Erläuterungstext;Ansicht;Grundriss;Schnitt;Lageplan;Detail
+1;Themse-Brücke;London;Vereinigtes Königreich;Thomas;Telford;;;;;;;;1801;;;;;;;;
+2;Crystal Palace;London;Vereinigtes Königreich;Joseph;Paxton;;;;;;;;1850;1851;Glas+Eisen+Tragwerk+öffentliche Bauten+Raster+Industrie;jospax-cry-txt;jospax-cry-abb;jospax-cry-gru;;;
+3;Red House;Bexleyheath;Vereinigtes Königreich;Philip;Webb;;;;;;;;1858;1860;Arts & Crafts+Ziegel+Handwerk+Asymmetrie+Wohnen;phiweb-red-txt;phiweb-red-abb;;;;
+4;Bibliothek Sainte-Geneviève;Paris;Frankreich;Henri;Labrouste;;;;;;;;1843;1850;rational+Aufklärung+Eisen+Renaissance+öffentliche Bauten+Bibliothek;henlab-sai-txt;henlab-sai-abb;;;;
+5;Bibliothèque Nationale;Paris;Frankreich;Henri;Labrouste;;;;;;;;1858;1868;Statik+öffentliche Bauten+Bibliothek+Stützen+Eisen+Tragwerk+Antike+Ornament;henlab-nat-txt;henlab-nat-abb;;;;
+6;Eiffelturm;Paris;Frankreich;Gustave;Eiffel;;;;;;;;1886;1889;Stahl+öffentliche Bauten+Turm+Tragwerk+Fachwerk;guseif-eif-txt;guseif-eif-abb;;;;
+7;Carrée d’art;Nîmes;Frankreich;Norman;Foster;;;;;;;;1984;1992;öffentliche Bauten+Bibliothek+Stützen+Museum+Glas;norfos-car-txt;norfos-car-abb;;;;
+8;Sagrada Família;Barcelona;Spanien;Antoni;Gaudí;;;;;;;;1883;1926;experimentell+Tektonik+expressiv+öffentliche Bauten+Kirche;antgau-sag-txt;antgau-sag-abb;;;;
+9;Warenhaus Wertheim;Berlin;Deutschland;Alfred;Messel;;;;;;;;1896;1897;öffentliche Bauten+Kaufhaus+Stützen+Glas+Ornament+Ehrlichkeit;alfmes-war-txt;almes-war-abb;almes-war-gru;almes-war-sch;;
+10;Leicester Engineering Building;Leicester;Vereinigtes Königreich;James;Stirling;;;;;;;;1959;1963;Transparenz+Technologie+expressiv+Universität+Glas+Ziegel+Turm;jamstir-lei-txt;jamstir-lei-abb;;;;
+11;AEG-Turbinenhalle;Berlin;Deutschland;Peter;Behrens;;;;;;;;1908;1909;Industrie+monumental+Tempel+Glas+Deutscher Werkbund;petbeh-aeg-txt;petbeh-aeg-abb;;petbeh-aeg-sch;;
+12;Centre Pompidou;Paris;Frankreich;Renzo;Piano;;Richard;Rogers;;;;;1971;1977;Technologie+öffentliche Bauten+Museum+Bibliothek+Tragwerk+Transparenz+Glas+expressiv;renpia-cen-txt;renpia-cen-abb;;;;
+13;Hochzeitsturm;Darmstadt;Deutschland;Joseph Maria;Olbrich;;;;;;;;1905;1908;;josolb-hoc-txt;josolb-hoc-abb;josolb-hoc-gru;;;
+14;Downtown Castle;Herefordshire;Vereinigtes Königreich;Richard;Payne Knight;;;;;;;;1779;;;;;;;;
+15;Postsparkasse;Wien;Österreich;Otto;Wagner;;;;;;;;1904;1906;Öffentliche Bauten+Bank+Wiener Secession+Wettbewerb+Jugendstil+Gesamtkunstwerk+Stahlbeton+Glas+Marmor+Aluminium;ottwag-pos-txt;ottwag-pos-abb;;;;ottwag-pos-det
+16;Palais Stoclet;Brüssel;Belgien;Josef;Hoffmann;;;;;;;;1905;1911;Wiener Secession+Jugendstil+Gesamtkunstwerk+Wohnungsbau+Marmor+Metall;Joshof-pal-txt;joshof-pal-abb;;;;
+17;Wohnhaus Rue Franklin;Paris;Frankreich;Auguste;Perret;;;;;;;;1903;1904;Wohnungsbau+Stahlbeton+Skelettbau+Glas+Ornament+Dachterrasse;augper-rue-txt;augper-rue-abb;;;;
+18;St. Engelbert;Köln;Deutschland;Dominikus;Böhm;;;;;;;;1932;;;;domboe-ste-abb;;;;
+19;Maison du Peuple;Brüssel;Belgien;Victor;Horta;;;;;;;;1896;1899;Art Nouveau+Stahl+Glas+Ziegel+Abriss+Ehrlichkeit;vichor-mai-txt;vichor-mai-abb;;;;
+20;Börse Amsterdam;Amsterdam;Niederlande;Henri;Berlage;;;;;;;;1896;1903;Ziegelmauerwerk+Wettbewerb+Ehrlichkeit+Gesamtkunstwerk+Sachlichkeit+Fachwerkträger;henber-bör-txt;henber-bör-abb;;;;
+21;Haus Perrycroft;Malvern Hills;Vereinigtes Königreich;Charles;Voysey;;;;;;;;1893;;;;;;;;
+22;Glasgow School of Art;Glasgow;Vereinigtes Königreich;Charles Rennie;Mackintosh;;;;;;;;1896;1909;Glasgow Style+Wettbewerb+Ziegel+Granit+Glas+Arts-and-Crafts;chamac-gla-txt;chamac-gla-abb;chamac-gla-gru;chamac-gla-sch;;
+23;Sullivan Center;Chicago;Vereinigte Staaten;Louis;Sullivan;;;;;;;;1899;1904;Chicagoer Schule+Hochhaus+Kaufhaus+Bürogebäude+Stahl+Skelettbau+Terrakotta;lousul-sul-txt;lousul-sul-abb;;lousul-sul-sch;;
+24;Larkin Administration Building;Buffalo;Vereinigte Staaten;Frank Lloyd;Wright;;;;;;;;1904;;;;;frawri-lar-gru;;;
+25;Unity Temple;Oak Park;Vereinigte Staaten;Frank Lloyd;Wright;;;;;;;;1906;;;;frawri-uni-abb;frawri-uni-gru;frawri-uni-sch;;
+26;Jahrhunderthalle;Breslau;Polen;Max;Berg;;;;;;;;1911;1913;Stahlbeton+Öffentliche Bauten+Kuppel+Rippen;maxber-jah-txt;maxber-jah-abb;;;;
+27;Großes Schauspielhaus;Berlin;Deutschland;Hans;Poelzig;;;;;;;;1918;1919;Expressionismus+Moderne+Theaterbau+Öffentliche Bauten+Umbau+Abriss;hanpoe-gro-txt;hanpoe-gro-abb;;;;
+28;Einsteinturm;Potsdam;Deutschland;Erich;Mendelsohn;;;;;;;;1919;1922;Expressionismus+Turm+Observatorium+Beton+Ziegel+Putz;erimen-ein-txt;erimen-ein-abb;erimen-ein-gru;;;
+29;Chile-Haus;Hamburg;Deutschland;Fritz;Höger;;;;;;;;1922;1924;Expressionismus+Backstein+Bürogebäude+Stahlbeton+Skelettbau;frihög-chi-txt;frihoe-chi-abb;;;;frihoe-chi-det
+30;Großsiedlung Siemensstadt;Berlin;Deutschland;Hans;Scharoun;;;;;;;;1930;;;;;;;;
+31;Fagus-Werk;Alfeld an der Leine;Deutschland;Walter;Gropius;;Adolf;Meyer;;;;;1910;1914;Moderne+Fabrik+Industriebauten+Ziegel+Sachlichkeit+Stahlbeton+Eisenrahmen+Glas;walgro-fag-txt;walgro-fag-abb;walgro-fag-gru;;;
+32;Bauhaus;Dessau;Deutschland;Walter;Gropius;;;;;;;;1925;1926;Schulbau+Stahlbeton+Flachdach+Stahl+Glas+Balkon+Bauhaus+Gesamtkunstwerk;walgro-bau-txt;walgro-bau-abb;walgro-bau-gru;walgro-bau-sch;walgro-bau-lag;
+33;Barcelona-Pavillon;Barcelona;Spanien;Ludwig;Mies van der Rohe;;Lilly;Reich;;;;;1929;;Moderne+Weltausstellung+Rekonstruktion+Abriss+Pavillon+Marmor+Stahl+Glas;ludmie-bar-txt;ludmie-bar-abb;ludmie-bar-gru;;;
+34;Glashaus-Pavillon;Köln;Deutschland;Bruno;Taut;;;;;;;;1914;;Expressionismus+Glas+Deutscher Werkbund+Stahlbeton+Wasser+Pavillon+Ausstellung;brutau-gla-txt;brutau-gla-abb;;;;brutau-gla-det
+35;Haus Steiner;Wien;Österreich;Adolf;Loos;;;;;;;;1910;;Funktionalismus+Wohnungsbau+Wiener Secession+Tonnendach+Symmetrie;adoloo-hau-txt;adoloo-hau-abb;adoloo-hau-gru;adoloo-hau-sch;;
+36;St. Antonius;Basel;Schweiz;Karl;Moser;;;;;;;;1926;;;;karmos-san-abb;;;;karmos-san-det
+37;Zeppelin-Halle;Orly;Frankreich;Eugène;Freyssinet;;;;;;;;1916;1924;;;eugfre-zep-abb;;;;harvard
+38;Cité moderne;Brüssel;Belgien;Victor;Bourgeois;;;;;;;;1922;;;;vicbou-cit-abb;;;;
+39;Lenin-Mausoleum;Moskau;Russland;Alexei;Schtschussew;;;;;;;;1924;;;;;;;;
+40;Piazza d’Italia;New Orleans;Vereinigte Staaten;Charles Willard;Moore;;;;;;;;1978;;;;chamoo-pia-abb;;;;chamoo-pia-det
+41;Philharmonie;Berlin;Deutschland;Hans;Scharoun;;;;;;;;1956;1963;Expressionismus+Organische Architektur+Öffentliche Bauten+Wettbewerb+Konzerthaus+Aluminium;hansch-phi-txt;hansch-phi-abb;;;hansch-phi-lag;
+42;Premabhai Hall;Ahmedabad;Pakistan;Balkrishna;Doshi;;;;;;;;1956;1972;;;;;;;
+43;Opernhaus Sydney;Sydney;Australien;Jørn;Utzon;;;;;;;;1957;1973;Öffentliche Bauten+Konzerthaus+Wettbewerb+Organische Architektur+Betonrippen+Glas+Fertigbauelemente;jorutz-ope-txt;jorutz-ope-abb;;;;jorutz-ope-det
+44;Wyborg-Bibliothek;Wyborg;Russland;Alvar;Aalto;;;;;;;;1930;1935;Öffentliche Bauten+Bibliothek+Wettbewerb+Funktionalismus+Stahlbeton+Holz+Möbel+Oberlicht;alvaal-wyb-txt;;;;;
+45;Paimio Sanatorium;Paimio;Finnland;Alvar;Aalto;;Aino;Aalto;;;;;1929;1933;Funktionalismus+Krankenhaus+Wettbewerb+Stahlbeton+Flachdach+Dachterrasse+Natur;alvaal-pai-txt;alvaal-pai-abb;alvaal-pai-gru;alvaal-pai-sch;alvaal-pai-lag;
+46;Olympiastadion;Helsinki;Finnland;Yrjö;Lindegren;;;;;;;;1934;1940;;;harvard;harvard;harvard;;harvard
+47;Stadthaus;Toronto;Kanada;Viljo;Revell;;;;;;;;1958;;;;vilrev-sta-abb;;;;
+48;Impington Village College;Impington;Vereinigtes Königreich;Walter;Gropius;;Maxwell;Fry;;;;;1936;;;;walgro-imp-abb;walgro-imp-gru;;walgro-imp-lag;walgro-imp-det
+49;Olympiahalle (Kokuritsu Yoyogi Kyōgijō);Tokio;Japan;Kenzo;Tange;;;;;;;;1960;1964;Beton+Stahlseil+Öffentliche Bauten+Stadion+Holzvertäfelung+Konstruktion+Tradition;kentan-oly-txt;kentan-oly-abb;;;;
+50;Coventry Cathedral;Coventry;Vereinigtes Königreich;Basil;Spence;;;;;;;;1963;;;;basspe-cov-abb;;;;
+51;Bergpolder;Rotterdam;Niederlande;Leendert;van der Vlugt;;Willem;van Tijen;;;;;1933;;;;harvard;;;;
+52;Städtisches Waisenhaus;Amsterdam;Niederlande;Aldo;van Eyck;;;;;;;;1955;;;;;;;;
+53;Unité d'Habitation;Marseille;Frankreich;Charles-Édouard ;Jeanneret-Gris;Le Corbusier;;;;;;;1947;1952;;chajea-uni-txt;chajea-uni-abb;chajea-uni-gru;chajea-uni-sch;;chajea-uni-det
+54;Notre-Dame-du-Haut;Ronchamp;Frankreich;Charles-Édouard ;Jeanneret-Gris;Le Corbusier;;;;;;;1950;1954;;chajea-not-txt;chajea-not-abb;;;chajea-not-lag;chajea-not-det
+55;Melnikow-Haus;Moskau;Sowjetunion;Konstantin Stepanowitsch;Melnikow;;;;;;;;1928;1931;;;;;;;
+56;UNESCO-Gebäude;Paris;Frankreich;Marcel;Breuer;;Pier Luigi;Nervi;;Bernard;Zehrfuß;;1952;1957;;;harvard x;marbre-une-gru;;marbre-une-lag;harvard
+57;Bahnhof Roma Termini;Rom;Italien;Eugenio;Montuori;;Leo;Calini;;;;;1950;;;;;;;;
+58;Pirelli-Hochhaus;Mailand;Italien;Gio;Ponti;;;;;;;;1958;;;;giopon-pir-abb;;;;
+59;Fallingwater;Mill Run;Vereinigte Staaten;Frank Lloyd;Wright;;;;;;;;1936;1937;Organische Architektur+Wohnungsbau+Beton+Mauerwerk+Glas+Stahl+Natur;frawri-fal-txt;frawri-fal-abb;frawri-fal-gru;frawri-fal-sch;frawri-fal-lag;frawri-fal-det
+60;Crown Hall;Chicago;Vereinigte Staaten;Ludwig;Mies van der Rohe;;;;;;;;1942;1943;;;ludmie-cro-abb;ludmie-cro-gru;ludmie-cro-sch;ludmie-cro-lag;ludmie-cro-det
+61;Harvard Graduate Center;Cambridge;Vereinigte Staaten;Walter;Gropius;;Marcel;Breuer;;;;;1949;1950;;;walgro-har-abb;;;;
+62;Maimonides Hospital;San Francisco;Vereinigte Staaten;Erich;Mendelsohn;;;;;;;;1946;;;;erimen-mai-abb;;;;erimen-mai-det
+63;Panthéon;Paris;Frankreich;Jacques-Germain;Soufflot;;;;;;;;1757;;;;jacsou-pan-abb;;;;jacsou-pan-det
+64;Denkmal Friedrichs des Großen;Berlin;Deutschland;Friedrich;Gilly;;;;;;;;1796;;;;frigil-den-abb;;;;
+65;Landhaus Thornton;Thornton;Vereinigtes Königreich;Christian Frederik;Hansen;;;;;;;;1797;;;;;;;;
+66;Rue de Rivoli;Paris;Frankreich;Charles;Percier;;Pierre;Fontaine;;;;;1802;;;;chaper-rue-abb;;;;
+67;Monument für die Dritte Internationale (Tatlin-Turm);Moskau;Sowjetunion;Vladimir Evgrafovič ;Tatlin;;;;;;;;1920;;;;vlatat-mon-abb;;;;
+68;Royal Pavilion;Brighton;Vereinigtes Königreich;John;Nash;;;;;;;;1823;;;;johnas-roy-abb;;;;johnas-roy-det
+69;Münze;Karlsruhe;Deutschland;Friedrich;Weinbrenner;;;;;;;;1827;;;;friwei-mue-abb;friwei-mue-gru;;;
+70;Glyptothek;München;Deutschland;Leo;von Klenze;;;;;;;;1830;;;;leovon-gly-abb;;;;
+71;Thorvaldsens Museum;Kopenhagen;Dänemark;Gottlieb;Bindesbøll;;;;;;;;1839;;;;gotbin-tho-abb;;;;
+72;Königliches Hoftheater Dresden;Dresden;Deutschland;Gottfried;Semper;;;;;;;;1842;;;;gotsem-koe-abb;gotsem-koe-gru;gotsem-koe-sch;gotsem-koe-lag;gotsem-koe-det
+73;Königliches Schloss;Athen;Griechenland;Friedrich;von Gärtner;;;;;;;;1843;;;;;frivon-koe-gru;;;
+74;Ju’er Hutong (Neue Hofhäuser);Bejing;Volksrepublik China;Liangyong;Wu;;;;;;;;1989;1992;;;;;;;
+75;Feldherrenhalle;München;Deutschland;Friedrich;von Gärtner;;;;;;;;1844;;;;;;;;
+76;Propyläen;München;Deutschland;Leo;von Klenze;;;;;;;;1848;;;;leovon-pro-abb;;;;
+77;Harper Brothers Building;New York;Vereinigte Staaten;James;Bogardus;;;;;;;;1857;;;;jambog-har-abb;;;;
+78;Heinrichshof;Wien;Österreich;Theophil;von Hansen;;;;;;;;1863;;;;thevon-hei-abb;;;;
+79;Christuskirche;Hannover;Deutschland;Conrad Wilhelm;Hase;;;;;;;;1864;;;;;;;;
+80;Galleria Vittorio Emanuele;Mailand;Italien;Guiseppe;Mengoni;;;;;;;;1867;;;;guimen-gal-abb;;;;guimen-gal-det
+81;Wiener Staatsoper;Wien;Österreich;August;Sicard von Sicardsburg;;Eduard;van der Nüll;;;;;1869;;;;augsic-wie-abb;;;;augsic-wie-det
+82;Schloss Neuschwanstein;Schwangau;Deutschland;Eduard;Riedel;;;;;;;;1874;;;;edurie-sch-abb;;;;
+83;Fabrik für Renault;Durango;Mexiko;Ricardo;Legoretta;;;;;;;;1984;1985;;;ricleg-fab-abb;;;;ricleg-fab-det
+84;Royal Courts of Justice;London;Vereinigtes Königreich;George Edmund;Street;;;;;;;;1882;;;;geostr-roy-abb;;;;
+85;Parlamentsgebäude Wien;Wien;Österreich;Theophil;von Hansen;;;;;;;;1883;;;;thevon-par-abb;thevon-par-gru;;;
+86;Burgtheater;Wien;Österreich;Gottfried;Semper;;Karl;Freiherr von Hasenauer;;;;;1888;;;;gotsem-bur-abb;;;;
+87;Lenbachvilla;München;Deutschland;Gabriel;von Seidl;;;;;;;;1891;;;;;;;;
+88;Hôtel Tassel;Brüssel;Deutschland;Victor;Horta;;;;;;;;1892;1893;Wohnungsbau+Jugendstil+Gesamtkunstwerk+Eisen+Buntglas+Oberlicht+Stein;vichor-hot-txt;harvard;harvard;harvard;;harvard x
+89;Reichstag;Berlin;Deutschland;Paul;Wallot;;;;;;;;1894;;;;harvard;harvard;;;
+90;Kathedrale von Périgieux ;Périgieux;Frankreich;Paul;Abadie;;;;;;;;1895;;;;;;;;
+91;Atlantida Kirche;Montevideo;Uruguay;Eladio;Dieste;;;;;;;;;;;;;;;;
+92;Baerwaldbad;Berlin;Deutschland;Ludwig;Hoffmann;;;;;;;;1901;;;;;;;;
+93;Neues Rathaus Leipzig;Leipzig;Deutschland;Hugo;Licht;;;;;;;;1905;;;;;;;;
+94;Scotland-Yard-Bau;London;Vereinigtes Königreich;Norman;Shaw;;;;;;;;1906;;;;norsha-sco-abb;;;;
+95;Garnisonskirche;Ulm;Deutschland;Theodor;Fischer;;;;;;;;1912;;;;;;;;
+96;Völkerschlachtdenkmal;Leipzig;Deutschland;Bruno;Schmitz;;;;;;;;1913;;;;;;;;
+97;Gartenstadt Staaken;Berlin;Deutschland;Paul;Schmitthenner;;;;;;;;1917;;;;;;;;
+98;Hauptbahnhof Stuttgart;Stuttgart;Deutschland;Paul;Bonatz;;;;;;;;1922;;;;paubon-hau-abb;;;;
+99;Tribune Tower;Chicago;Deutschland;Eliel;Saarinen;;;;;;;;1922;;;;elisaa-tri-abb;;;;
+100;Auferstehungskapelle;Stockholm;Schweden;Sigurd;Lewerentz;;;;;;;;1925;;;;harvard;harvard;;harvard;harvard
+101;Landhaus X;;Deutschand;Hermann;Muthesius;;;;;;;;;;;;;;;;
+102;Kunstgewerbeschule;Weimar;Deutschland;Henry;van de Velde;;;;;;;;1906;1909;;;henvan-kun-abb;;;;
+103;Johnson Wax Headquarters;Racine;Verinigte Staaten;Frank Lloyd;Wright;;;;;;;;1936;1939;;;frawri-joh-abb;frawri-joh-gru;frawri-joh-sch;;frawri-joh-det
+104;Looshaus;Wien;Österreich;Adolf;Loos;;;;;;;;1909;1912;;;adoloo-loo-abb;adoloo-loo-gru;adoloo-loo-sch;;adoloo-loo-det
+105;Villa Müller;Prag;Tschechien;Adolf;Loos;;;;;;;;1928;1930;;;adoloo-vil-abb;adoloo-vil-gru;adoloo-vil-sch;adoloo-vil-lag;adoloo-vil-det
+106;Neue Nationalgalerie;Berlin;Deutschland;Ludwig;Mies van der Rohe;;;;;;;;1962;1967;Öffentliche Bauten+Museum+Kassettendecke+Stütze+Stahl+Glas+Raster+Vorhang;ludmie-neu-txt;ludmie-neu-abb;ludmie-neu-gru;ludmie-neu-sch;;ludmie-neu-det
+107;Sainte-Marie de la Tourette;Éveux;Frankreich;Charles-Édouard ;Jeanneret-Gris;Le Corbusier;;;;;;;1953;1960;;;chajea-sai-abb;chajea-sai-gru;chajea-sai-sch;;chajea-sai-det
+108;Villa Savoye;Poissy;Frankreich;Charles-Édouard ;Jeanneret-Gris;Le Corbusier;Pierre;Jeanneret;;;;;1928;1931;;;chajea-vil-abb;chajea-vil-gru;chajea-vil-sch;;chajea-vil-det
+109;Lenin Institut;Moskau;Russland;Iwan;Leonidow;;;;;;;;1927;;;;harvard;harvard;;;
+110;Gebäude des Volkskommissariats für Schwerindustrie;Moskau;Russland;Iwan;Leonidow;;;;;;;;1934;;;;;;;;
+111;E.1027;Roquebrune-Cap-Martin;Frankreich;Eileen;Gray;;Jean;Badovici;;;;;1926;1929;;;harvard;harvard;;harvard;harvard
+112;Museu de Arte de São Paulo;São Paulo;Brasilien;Lina;Bo Bardi;;;;;;;;;1968;;;linbob-mus-abb;;;;
+113;SAFFA-Haus;Bern;Schweiz;Lux;Guyer;;;;;;;;;1928;;;;;;;
+114;Feuerwehrhaus Vitra;Weil am Rhein;Deutschland;Zaha;Hadid;;;;;;;;;1993;;;zahhad-feu-abb;;;;harvard
+115;Rolex Learning Centre;Lausanne;Schweiz;Kazuyo;Sejima;Sanaa;Ryūe;Nishizawa;Sanaa;;;;;2010;;;harvard;harvard;harvard;harvard;harvard
+116;Bocconi Universität;Mailand;Italien;Shelley;McNamara;Grafton Architects;Yvonne;Farrell;Grafton Architects;;;;;2008;;;harvard;harvard;harvard;harvard;harvard
